@@ -1,6 +1,8 @@
 body 
 {   background: black;
     color: yellow;
+body
+{   color: yellow;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -9,7 +11,7 @@ body
 
 }
 
-#container 
+#container
 {
     width: 70%;
     padding: 1em;
@@ -23,7 +25,7 @@ body
     font-size: 20px;
 }
 
-#cabecera 
+#cabecera
 {
     background: blue;
     box-shadow: 0px 3px 20px rgba(0, 0,0, 0);
@@ -38,4 +40,13 @@ body
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 00.5em;
+}
+
+#footer
+{
+  background: black;
+  color: white;
+  text-align: center;
+  
+
 }
