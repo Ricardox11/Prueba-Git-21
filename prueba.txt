@@ -10,3 +10,6 @@ cambio 3 git
 cambio 4 git
 
 cambio 5 -- git rm cached
+
+
+cambio rebase
